@@ -1,4 +1,10 @@
-#include "TimeSpan.h"
+/*
+ * TimeSpan.cpp
+ * TimeSpan class that represents a duration of time in hours, minutes, and seconds.
+ * Program 1
+ * Tuesday,September 20,2022
+ * Shihua Yu
+*/
 
 using namespace std;
 
